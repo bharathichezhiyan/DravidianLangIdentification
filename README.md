@@ -47,10 +47,12 @@ The challenge of the task is to identify the language of the given comment. It i
 The macro-averaged F1 score will be used to rank the participants.
 
 
-== Organizers ==
+# == Organizers ==
 
 Bharathi Raja Chakravarthi, National University of Ireland Galway, Ireland (bharathiraja.akr@gmail.com)
+
 Ruba Priyadharahsini, ULTRA Arts and Science College, Madurai, India (rubapriyadharshini.a@gmail.com)
+
 Eswari Rajagopal, National Institute of Technology Tiruchirappalli, India (eswari@nitt.edu)
 
 if you are using the paper then cite
